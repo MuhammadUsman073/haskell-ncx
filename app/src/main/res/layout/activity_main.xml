@@ -45,7 +45,7 @@
                 android:id="@+id/genbtn"
                 android:layout_marginRight="20dp"
                 android:layout_width="wrap_content"
-                android:text="Genrate QR-Code"
+                android:text="Generate QR-Code"
                 android:layout_height="wrap_content">
             </Button>
             <Button
